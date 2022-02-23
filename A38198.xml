@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act of the Commons in Parliament assembled with further instructions to the trustees, contractors, treasurers, and register for the sale of the lands and possessions of the late deans, sub-deans, deans, and chapters &amp;c., and for the better and more speedy execution of the former acts, ordinances, and instructions made concerning the same.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38198</idno>
+            <idno type="STC">Wing E2509A</idno>
+            <idno type="STC">ESTC R26720</idno>
+            <idno type="EEBO-CITATION">09527473</idno>
+            <idno type="OCLC">ocm 09527473</idno>
+            <idno type="VID">43494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1330:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act of the Commons in Parliament assembled with further instructions to the trustees, contractors, treasurers, and register for the sale of the lands and possessions of the late deans, sub-deans, deans, and chapters &amp;c., and for the better and more speedy execution of the former acts, ordinances, and instructions made concerning the same.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Church of England.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43494:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:43494:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>AN ACT OF THE Commons of England In PARLIAMENT Aſſembled; VVith further Inſtructions to the Truſtees, Contractors, Treaſurers, and Regiſter, for the Sale of the Lands and Poſſeſſions of the late Deans, Sub-Deans, Deans and Chapters, &amp;c. And for the better, and more ſpeedy execution of the former Acts, Ordinances, and Inſtructions made concerning the ſame.</p>
+            <figure>
+               <figDesc>blazon of the Commonwealth</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Richard Cotes,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43494:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:43494:2"/>
+            <!-- PDF PAGE 8 -->
+            <opener>
+               <dateline>
+                  <date>Die Martis, 31 Julii, 1649.</date>
+               </dateline>
+            </opener>
+            <head>AN ACT VVith further Inſtructions to the Truſtees, Contractors, Treaſurers, and Regi<g ref="char:EOLhyphen"/>ſter for the Sale of the Lands and Poſſeſſions of the late Deans, Sub-Deans, Deans and Chap<g ref="char:EOLhyphen"/>ters, &amp;c. And for the better, and more ſpeedy execution of the former Acts, Ordinances, and Inſtructions made concerning the ſame.</head>
+            <p>
+               <seg rend="decorInit">B</seg>EE it enacted by this preſent Parlia<g ref="char:EOLhyphen"/>ment, and by the Authority of the ſame; That all and every perſon and perſons, who<g ref="char:cmbAbbrStroke">̄</g> by an Act of this Parliament, Entituled, <hi>(An Act of the Commons of England in Parliament aſſembled, For the aboliſhing of Deans, Deans and Chapters, Canons, Pre<g ref="char:EOLhyphen"/>bends, and other Offices and Titles, of or belonging to any Cathedrall or Collegiate Church or Chappell, within <hi>England</hi> or <hi>Wales</hi>)</hi> are not diſabled to hold or uſe the Place, Function, Office, Title or Stile of Precentor, or any other Title, Stile, Place, Function, or office, of or belonging to any Cathedrall, or Collegiate Church or Chappell, within <hi>England</hi> or <hi>Wales,</hi> the Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and Iſles of <hi>Guernſey</hi> and <hi>Jer<g ref="char:EOLhyphen"/>ſey,</hi> or any of them, are,<note place="margin">Precentors diſabled to hold the office or title.</note> and be from the Nine and twentieth day of <hi>March,</hi> in the yeare of our Lord, <hi>1649.</hi> diſabled to hold the ſame, or any ſuch place,
+<pb n="2" facs="tcp:43494:3"/>
+               <!-- PDF PAGE 9 -->Function, Office, or Stile as aforeſaid; And that all Mannors,<note place="margin">The Mannors, Lands, Recto<g ref="char:EOLhyphen"/>ries, Parſonages &amp;c. the Tru<g ref="char:EOLhyphen"/>ſtees are veſted in.</note> Lands, Tenements, Rectories, Parſona<g ref="char:EOLhyphen"/>ges, Vicarages, Advowſons, Donations, Nominati<g ref="char:EOLhyphen"/>ons, rights of Patronage, and Preſentation. Tythes, Parkes, Commons, Annuities, Rents, Reverſions, Services, Courts Leets, Courts Baron, and other Courts, Franchiſes, Liberties, Priviledges, and Im<g ref="char:EOLhyphen"/>munities, Rights of action and entry, Conditions, and all other Poſſeſſions, and hereditaments, with their and every of their appurtenances, of what nature or quality ſoever they be, which now are, or at any time within ten years before the beginning of this preſent Parliament of right were belonging to every or any ſuch Precentor, or other perſon or perſons aforeſaid; and which they, or any of them had held or enioyed in right, or by reaſon of his or their ſaid Place, Function, Office, Title, Stile, or imployment reſpectively; to<g ref="char:EOLhyphen"/>gether with all Charters, Deeds, Court-rolles, Ac<g ref="char:EOLhyphen"/>compts, Evidences, and Writings belonging to them, or any of them, which concerne the ſame premi<g ref="char:EOLhyphen"/>ſes, or any of them, ſhall bee, and are hereby veſted, and ſetled, and are hereby adiudged to bee, and ſhall bee deemed and taken to be in the reall and actuall poſſeſſi<g ref="char:EOLhyphen"/>on and ſeiſin of Sir <hi>John Wollaſton</hi> Knight, <hi>Thomas Noel, William Hobſon, Thomas Arnold, Owen Roe, Stephen Eſtwicke, Robert Titchborne, George Langham, John Stone, Mark Hildſley, John White, William Wy<g ref="char:EOLhyphen"/>berd, Daniel Taylor, William Rolfe, and Rowland Wil<g ref="char:EOLhyphen"/>ſon</hi> Eſouires (Truſtees in the ſaid recited Act named) their Heirs and Aſſignes; And that they the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, and the Survivor, and Survivors of them, and his and their Heirs and Aſſignes, ſhall from hence<g ref="char:EOLhyphen"/>forth hold ſuch of the premiſes (hereby ſetled and veſted in them) and ſuch of the Mannors, Lands, Tenements, and Hereditaments, by the ſaid recited Act, veſted in the ſaid Truſtees, and their Heirs, as on the eight and twentieth day of <hi>March</hi> laſt paſt, were hol<g ref="char:EOLhyphen"/>den
+<pb n="3" facs="tcp:43494:3"/>
+               <!-- PDF PAGE 9 -->of any Common perſon, or perſons by the ſame tenures Rents and ſervices, by which the ſame were then held; And ſhall from henceforth hold all the reſt of the ſaid Mannors, and premiſes (aſwell thoſe which are hereby, as thoſe which by the ſaid recited Act, are veſted or ſetled in the ſaid Truſtees and their Heirs) of the Mannor of <hi>Eaſt Greenwich,</hi>
+               <note place="margin">The Manor of <hi>Eaſt Greenwich.</hi>
+               </note> in free and Common Socage, by fealty only, and not by any o<g ref="char:EOLhyphen"/>ther tenure, or ſervice whatſoever: And that they the ſaid Truſtees, and the Survivor and Survivors of them, and his and their heirs ſhall from henceforth ſtand ſeized of all the ſaid Mannors, Lands, Tene<g ref="char:EOLhyphen"/>ments, Hereditaments, and other things hereby or by the ſaid recited Act veſted in them, and their Heirs as aforeſaid (except Rectories, Parſonages, Vicarages, and ſuch other things as in the ſaid Act are excepted) to the uſes, intents, and purpoſes herein,<note place="margin">What things are excepted, and the uſes and purpoſes thereof,</note> and hereafter declared, and not upon any other truſt, nor to any other uſe, intent, or purpoſe whatſoever that is to ſay) that out of the money which ſhall be raiſed by the ſale of ſuch of the premiſes as ſhall bee ſold, and out of the Rents, Revenues, iſſues, and profits of the premiſes which ſhall grow due before ſuch ſale: The ſeverall ſums of money, which hereby, or by the ſaid Act are, or are intended to be paid and ſatisfied; together with all charges to be paid or borne, for or by reaſon of the execution of the truſt in them repoſed (and not other<g ref="char:EOLhyphen"/>wiſe provided for) may be paid and ſatisfied; and af<g ref="char:EOLhyphen"/>ter the ſame ſhall be made and ſatisfied, They, and the Survivors, and ſurvivor of them, his and their heirs ſhall ſtand ſeiſed of the reſidue of the premiſes, then remaining undiſpoſed of, for the uſe and benefit of the Common-wealth, as by the Parliament ſhall be appointed. And it is hereby further enacted, in all things (not hereby otherwiſe directed) which concern the premiſes hereby veſted or ſetled in the ſaid Tru<g ref="char:EOLhyphen"/>ſtees, and their Heirs, and the rents, iſſues, and pro<g ref="char:EOLhyphen"/>fits
+<pb n="4" facs="tcp:43494:4"/>
+               <!-- PDF PAGE 10 -->thereof, or which have reference thereunto, as in and by the ſaid recited Act, and ſuch other Acts and Inſtructions as have been ſince that made, or given; It is enacted concerning the Mannors, Lands, Tene<g ref="char:EOLhyphen"/>ments, Hereditaments, and other things by the ſaid firſt recited Act veſted, or ſetled in the ſaid Truſtees, and their Heirs, and the rents, iſſues, and profits there<g ref="char:EOLhyphen"/>of, or any other thing in reference thereunto; And that the ſaid Truſtees, Contractors, Treaſurers, and Regiſter reſpectively, and all Purchaſers and others whom it doth or ſhall concerne, ſhall have the like Powers, Priviledges, and Authorities in all things, and are hereby authorized, and impowered, to have and doe, all ſuch, and the like Acts and things, in re<g ref="char:EOLhyphen"/>ference to the premiſes hereby veſted, or ſetled in the ſaid Truſtees, and their Heirs, and the Rents, Iſ<g ref="char:EOLhyphen"/>ſues and profits thereof, in the like ſort, as they have, or may doe by force of the ſaid other Acts and Inſtru<g ref="char:EOLhyphen"/>ctions, in reference to the premiſes by the ſaid firſt re<g ref="char:EOLhyphen"/>cited Act, veſted or ſetled in the ſaid Truſtees and their Heirs, and the Rents, Iſſues, and Profits there<g ref="char:EOLhyphen"/>of.</p>
+            <p>And it is further enacted by the authority aforeſaid; That ſuch of the Contractors,<note place="margin">Contractors that have any legall terme in the Premiſſes may purchaſe.</note> named in the firſt reci<g ref="char:EOLhyphen"/>ted Act, who on or before the firſt day of <hi>December, 1641.</hi> in his or their own right had, and now hath, or which before, or ſince that, as Executor or adminiſtra<g ref="char:EOLhyphen"/>tor to any other had, and now hath, any legall term in any of the premiſes hereby, or by the ſaid firſt recited Act veſted in the ſaid Truſtees and their Heirs, may purchaſe the Reverſion and Inheritance thereof, with<g ref="char:EOLhyphen"/>out incurring any of the forfeitures expreſſed in the ſaid Act; &amp; ſhall have and enioy ſuch and the like benefit, diſ<g ref="char:EOLhyphen"/>charges, liberties &amp; advantages in reference thereunto, as any other Purchaſer of any of the premiſes may, or ought to have &amp; enioy, any thing in the ſaid firſt recited
+<pb n="5" facs="tcp:43494:4"/>
+               <!-- PDF PAGE 10 -->Act to the contrary notwithſtanding. <hi>Provided,</hi> in the caſes aforeſaid; That the Committee of Obſtructi<g ref="char:EOLhyphen"/>ons, or any five or more of them ſhall make the Con<g ref="char:EOLhyphen"/>tract, according to the Rules, and values in the firſt recited Act mentioned: And <hi>Provided</hi> alſo, That no Contractor doe procure himſelfe to bee an Executor or Adminiſtrator, by fraud or Coven, thereby to ob<g ref="char:EOLhyphen"/>taine an intereſt of a Reverſion or Reverſions to be<g ref="char:EOLhyphen"/>come a Purchaſer. And it is hereby further Enacted, That the ſaid Truſtees, Contractors, Treaſurers, and Regiſters named in the ſaid firſt recited Act, and all o<g ref="char:EOLhyphen"/>ther perſons, bodies Politique and Corporate, and e<g ref="char:EOLhyphen"/>very of them ſhall, in reference to the premiſes hereby, or by the ſame firſt recited Act veſted, or ſetled in the ſaid Truſtees, and their heires, and in all things tou<g ref="char:EOLhyphen"/>ching the ſame, obſerve and purſue, and have the bene<g ref="char:EOLhyphen"/>fit of theſe Inſtructions following <hi>(viz.)</hi>
+            </p>
+            <list>
+               <item>
+                  <note place="margin">The time en<g ref="char:EOLhyphen"/>larged for bringing in the moneys to be doubled.</note>I. That the times formerly limited, and now neer elapſed for bringing in of the moneys to be doubled up<g ref="char:EOLhyphen"/>on the Credit of the Deans and Chapters lands, ſhall be enlarged, and have continuance unto the laſt day of <hi>Aug. 1649.</hi> for all thoſe who live in <hi>London,</hi> or within twenty miles diſtant from the ſame, and unto the laſt day of <hi>September</hi> following for all others of this Na<g ref="char:EOLhyphen"/>tion, or reſiant therein.</item>
+               <item>
+                  <note place="margin">Monies advan<g ref="char:EOLhyphen"/>ced for purcha<g ref="char:EOLhyphen"/>ſing Rebells lands in <hi>Ireland</hi> admitted to bee doubled.</note>II. That all perſons, Bodies Politique and Cor<g ref="char:EOLhyphen"/>porate, whoſe moneys advanced for the purchaſe of the Rebells lands in <hi>Ireland,</hi> are admitted to be dou<g ref="char:EOLhyphen"/>bled upon the Credit of the ſaid Deans and Chapters Lands, who have, or ſhall within the times hereby before limited, double the ſame, and bring in their mo<g ref="char:EOLhyphen"/>neys, ſhall have allowance for the ſame, after the rate of Eight pounds <hi>percent. per annum,</hi> from the time of their firſt advance thereof, and ſhall have their Bills caſt up accordingly.</item>
+               <item>
+                  <note place="margin">Moneys ad<g ref="char:EOLhyphen"/>vanced in ſeve<g ref="char:EOLhyphen"/>rall Counties admitted of.</note>III. That the Receipt or Certificate of the high Sheriffs of the ſeverall Counties and Cities, who by
+<pb n="6" facs="tcp:43494:5"/>
+                  <!-- PDF PAGE 11 -->the Act <hi>for the ſpeedy reducing of the Rebells in <hi>Ireland,</hi>
+                  </hi> were authorized to receive moneys advanced in their reſpective Counties, for purchaſe of the ſaid Rebells Lands, and to give Receipts for the ſame: As like<g ref="char:EOLhyphen"/>wiſe the Receipt or Certificate of the Treaſurers at <hi>Grocers-hall London,</hi>
+                  <note place="margin">As Iſo the mo<g ref="char:EOLhyphen"/>ney advanced at <hi>Grocers-hall.</hi>
+                  </note> for moneys advanced, and paid to their Treaſury upon the purchaſe of the ſaid Re<g ref="char:EOLhyphen"/>bells lands, or any two of them ſhall be a warrant to the ſaid Truſtees, to admit to double upon, in like manner as the Receipts or Certificates of the Treaſu<g ref="char:EOLhyphen"/>rers of thoſe moneys at <hi>Guild-hall,</hi> or the Survivor of them are directed or intended to bee.</item>
+               <item>
+                  <note place="margin">Merchant Strangers and Mariners ad<g ref="char:EOLhyphen"/>mireed to dou<g ref="char:EOLhyphen"/>ble.</note>IV. That all ſuch Merchant Strangers, Mari<g ref="char:EOLhyphen"/>ners, and others who advanced moneys for the relief and preſervation of <hi>Ireland,</hi> and paid the ſame into the Chamber of <hi>London,</hi> in the yeare <hi>1642.</hi> and their Aſſignes, bringing unto the ſaid Truſtees a Receipt or Certificate for the ſame, under the hand of the Chamberlaine of <hi>London,</hi> or his Deputy for the time being, ſhall be, and hereby is admitted to double the ſame, with the intereſt thereof, upon the credit of the ſaid Deans and Chapters lands, and ſhall have ſuch allowance of intereſt, and the like priviledges and ad<g ref="char:EOLhyphen"/>vantages as any others admitted to double have, or ought to have.</item>
+               <item>
+                  <note place="margin">Thoſe admit<g ref="char:EOLhyphen"/>ted to double that raiſed and furniſhed horſe for the preſer<g ref="char:EOLhyphen"/>vation of the City of <hi>London.</hi>
+                  </note>V. That all ſuch perſons who raiſed or furniſhed any Horſe, with, or without furniture, for the preſer<g ref="char:EOLhyphen"/>vation of the City of <hi>London,</hi> which were liſted, and valued by Commiſſary <hi>Thomas Walker,</hi> and after<g ref="char:EOLhyphen"/>wards ſent out into the Publick ſervice, and there con<g ref="char:EOLhyphen"/>tinued or loſt, and not returned to the owners, ſhall by themſelves, or their Aſſignes, upon producing to the ſaid Truſtees a Certificate thereof, under the hand of the Colonel, or Maior of the Regiment, or Captain, or other chief Officers of the Troope, wherein the ſaid Horſes were abroad in the Publick Service, bee admitted to double the monies at which the ſaid Hor<g ref="char:EOLhyphen"/>ſes
+<pb n="7" facs="tcp:43494:5"/>
+                  <!-- PDF PAGE 11 -->and furniture were valued by the ſaid Commiſſa<g ref="char:EOLhyphen"/>ry as moneys owing upon the Publick Faith, upon the credit of the ſaid Deans and Chapters lands; and ſhall have ſuch Allowances, Priviledges, and Advan<g ref="char:EOLhyphen"/>tages, as other perſons admitted to doubling have.</item>
+               <item>
+                  <note place="margin">What the Re<g ref="char:EOLhyphen"/>giſter may make a particular of.</note>VI. That the Regiſter, or his Deputy, or any of his Clerks, ſhall not make forth any particular upon any Survey but upon ſuch only, as ſhall be firſt al<g ref="char:EOLhyphen"/>lowed, and ſigned by the Surveyor Generall, accor<g ref="char:EOLhyphen"/>ding to which Surveys ſo allowed and ſigned, parti<g ref="char:EOLhyphen"/>culars ſhall bee made, and not otherwiſe.</item>
+               <item>
+                  <note place="margin">Vpon what particular the Contractors may contract for.</note>VII. That the Contractors or any of them, ſhall not make any Contract upon any particular but ſuch only, as ſhall bee firſt ſigned by the Regiſter or his ſworn Deputy, and every particular ſo made and ſigned ſhall be a good, and ſufficient warrant to the Contractors, or any five or more of them, to contract upon for the ſale of all or any of the Lands, Lene<g ref="char:EOLhyphen"/>ments, Hereditaments, and other things therein com<g ref="char:EOLhyphen"/>prized.</item>
+               <item>
+                  <note place="margin">Conveyances to be ſealed to the purchaſers.</note>VIII. That the Contractors, or any five or more of them, after any ſuch Contract made upon any ſuch particular rated, and ſigned by the Regiſter, or his ſworn Deputy, ſhall thereupon by writing under their hands, to bee ſubſcribed under ſuch particular, atteſt that Contract, and make requeſt, and give warrant to the Truſtees, or any five or more of them to draw up and ſeal Conveyances thereupon to the Purchaſers, whereupon the Regiſter or his Deputy (having firſt entred the ſame, and all proceedings thereon) ſhall deliver the ſame to the Truſtees, or any five or more of them, who are hereby authorized to make and ſeal Conveyances accordingly.</item>
+               <item>
+                  <note place="margin">Truſtees to no<g ref="char:EOLhyphen"/>minate Recei<g ref="char:EOLhyphen"/>vers for the Rents, iſſues, &amp;c.</note>IX. That the ſaid Truſtees, or any five or more of them, ſhall from time to time by writing, or wri<g ref="char:EOLhyphen"/>tings under their hands and ſeales, nominate and appoint ſuch and ſo many Receivers, as they ſhall
+<pb n="8" facs="tcp:43494:6"/>
+                  <!-- PDF PAGE 12 -->thinke fit to receive the rents, iſſues, and profits of the premiſes, which by this or the ſaid firſt recited Act are veſted, or ſetled in the ſaid Truſtees and their Heirs; and from time to time when, and as oft as they ſhall thinke fit, remove them, or any of them, and no<g ref="char:EOLhyphen"/>minate and appoint others in their ſtead and place; and ſhall take of every ſuch Receiver ſuch ſecuri<g ref="char:EOLhyphen"/>ty as they ſhall thinke fit, for payment into the Treaſury, of ſo much as from time to time ſhall bee received by every of thoſe Receivers re<g ref="char:EOLhyphen"/>ſpectively. And the ſaid Truſtees,<note place="margin">Truſtees to give allowan<g ref="char:EOLhyphen"/>ces to the Re<g ref="char:EOLhyphen"/>ceivers.</note> or any five or more of them are hereby authorized to make, and give ſuch Allowances to every ſuch Receiver for his ſervice therein, as ſhall bee allowed of, with the approbation of the Committee of Obſtructi<g ref="char:EOLhyphen"/>ons, or any five, or more of them; And for payment thereof, and of ſuch Fees and Allow<g ref="char:EOLhyphen"/>ances, as the ſaid Truſtees, or any five or more of them, are by the firſt recited Act authori<g ref="char:EOLhyphen"/>zed to give, or make, the ſaid Truſtees, or any five or more of them, are hereby authorized from time to time to make Warrants under their hands, to the Treaſurers, or any two of them; who are hereby required, and authorized out of the moneys which ſhall bee paid into the Treaſu<g ref="char:EOLhyphen"/>ry, to pay the ſame accordingly; And that the ſaid Truſtees, Contractors, Treaſurers, and Re<g ref="char:EOLhyphen"/>giſter and every of them reſpectively, and all o<g ref="char:EOLhyphen"/>thers whom it may concerne,<note place="margin">Relation to former Acts and Inſtructions.</note> in relation to the premiſes, which by this or by the ſaid firſt reci<g ref="char:EOLhyphen"/>ted Act are veſted or ſetled in the ſaid Truſtees, or their Heirs, ſhall have the like powers and Authori<g ref="char:EOLhyphen"/>ties, and are in all things not hereby, or by the ſaid firſt recited Act, or ſuch other Acts or Inſtru<g ref="char:EOLhyphen"/>ctions, as have been ſince that made, otherwiſe di<g ref="char:EOLhyphen"/>rected, to proceed in like ſort, and to obſerve the like
+<pb n="9" facs="tcp:43494:6"/>
+                  <!-- PDF PAGE 12 -->Rules and Inſtructions, as the Truſtees, Con<g ref="char:EOLhyphen"/>tractors, Treaſurers, Regiſter, or other Perſons, for or concerning the late Biſhops lands, have or may, or might by force or vertue of any Ordinance of Parliament, to have, doe, or obſerve in relation to thoſe Lands.</item>
+            </list>
+            <div type="license">
+               <p>ORdered that this Act bee forthwith Printed and Publiſhed.</p>
+               <p>Hen. Scobell Cleric. Parliament.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
